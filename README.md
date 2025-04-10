@@ -5,7 +5,7 @@ Firmware for: [Urchin Keyboard](https://github.com/duckyb/urchin)
 **Are you trying to make your own ZMK firmware?**  
 [Here are the steps you need to take.](./GETTING_STARTED.md)
 
-**Do you want to download my keymap?**  
+**Do you want to download my keymap?** 
 
 > [!IMPORTANT]
 > My firmware only matches the following diagram if the operating system is set to "Italian" keyboard input.
